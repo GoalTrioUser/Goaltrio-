@@ -51,7 +51,7 @@
 
 ## התחברו איתנו:
 
-- אתר: [https://goaltriouser.github.io/GoalTrio](https://goaltriouser.github.io/GoalTrio)
+- אתר: https://goaltriouser.github.io/GoalTrio](https://goaltriouser.github.io/GoalTrio)
 - מייל ליצירת קשר: `itzik_co0547@walla.co.il`
 
 ---
