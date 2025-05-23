@@ -33,28 +33,16 @@ https://goaltriouser.github.io/GoalTrio-/#%D7%94%D7%AA%D7%97%D7%91%D7%A8%D7%95-%
 - **מוד פרידה** ללוקה מודריץ' – עמוד מיוחד עם סרטונים, ברכות וזיכרונות מה-6 זכיות בליגת האלופות
 - **קישורים לרשתות חברתיות** של GoalTrio:  
   [YouTube](https://youtube.com) | [Instagram](https://instagram.com) | [TikTok](https://tiktok.com)
-
 ---
 
 ## המטרה שלנו:
 
 להפוך את GoalTrio לנכס דיגיטלי עולמי שיזכה למיליוני כניסות, שיתופי פעולה עם מועדונים, שחקנים ויזמים – ולבנות חלום שמתחיל כאן.
-
 ---
 
 ## סיסמה שלנו:
-
 **"Más que una web, es una pasión – GoalTrio"**
-
----
-
-## התחברו איתנו:
-
-- אתר: https://goaltriouser.github.io/GoalTrio](https://goaltriouser.github.io/GoalTrio)
-- מייל ליצירת קשר: `itzik_co0547@walla.co.il`
-
----
-
+--
 תודה שבחרתם ב-GoalTrio  
 **יאללה מדריד!**  
 
