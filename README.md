@@ -11,14 +11,13 @@
 - קישורים לרשתות חברתיות ו-QR קוד לאתר
 
 ## רשתות חברתיות
-
 - [YouTube](https://youtube.com/goaltrio)
 - [TikTok](https://tiktok.com/@goaltrio)
 - [Instagram](https://instagram.com/goaltrio)
 
 ## צפה באתר
 
-[לחץ כאן לכניסה לאתר GoalTrio](https://goaltriouser.github.io/GoalTrio/)
+https://goaltriouser.github.io/GoalTrio
 
 ---# GoalTrio - אתר הכדורגל האולטימטיבי
 
