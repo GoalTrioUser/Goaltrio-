@@ -45,6 +45,35 @@ https://goaltriouser.github.io/GoalTrio-/#%D7%94%D7%AA%D7%97%D7%91%D7%A8%D7%95-%
 --
 תודה שבחרתם ב-GoalTrio  
 **יאללה מדריד!**  
+<div align="center">
+
+<img src="banner.png" alt="GoalTrio Banner" width="100%">
+
+# GoalTrio – מלכת אירופה לנצח
+**אתר הכדורגל הכי מרגש בעולם - בעברית, אנגלית וספרדית**
+
+<img src="logo.png" alt="GoalTrio Logo" width="200px">
+
+---
+
+### Hala Madrid, y nada más – juntos hacemos historia.
+**שלושת הכוכבים. שלוש השפות. מועדון אחד – Real Madrid.**
+
+---
+
+### בקרו באתר:
+[https://goaltriouser.github.io/GoalTrio](https://goaltriouser.github.io/GoalTrio)
+
+או סרקו את הקוד:
+
+<img src="goaltrio-qr.png" alt="QR Code" width="150px">
+
+---
+
+**עקבו אחרינו:**  
+[YouTube](https://youtube.com/goaltrio) | [TikTok](https://tiktok.com/@goaltrio) | [Instagram](https://instagram.com/goaltrio)
+
+</div>
 
 
 Real Madrid Spirit - Worldwide Vision🤍🫵✍🏼👆
